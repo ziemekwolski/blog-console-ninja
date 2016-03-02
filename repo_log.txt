@@ -1,0 +1,59 @@
+commit 6c49bc764e7d40905322b398dadb07a3fb936769
+Author: Ziemek Wolski <some@example.com>
+Date:   Tue Apr 17 18:38:48 2012 -0400
+
+    More Prep for plugin.
+
+commit eb0f769957f2ecbcc082424ac69d44fbe8957033
+Author: Ziemek Wolski <some@example.com>
+Date:   Tue Apr 17 18:28:16 2012 -0400
+
+    prep for plugin.
+
+commit e4ac15765ed2b0bab51ee748c7ec18e866c333aa
+Author: Ziemek Wolski <some@example.com>
+Date:   Thu Apr 5 18:44:35 2012 -0400
+
+    Removed all un-necessary javascript.
+
+commit 7a576f451ab6c2d136b550a2a021583825024e47
+Author: Ziemek Wolski <some@example.com>
+Date:   Wed Mar 28 15:43:28 2012 -0400
+
+    Minor fixes and some polish
+
+commit 3e69bd1e8800fabaadda613e05305596ee33eec9
+Author: Ziemek Wolski <some@example.com>
+Date:   Wed Mar 28 15:42:26 2012 -0400
+
+    Added correct images for the puzzle
+
+commit 530ec9e401c756649d0aede8cda241955d5031ef
+Author: Ziemek Wolski <some@example.com>
+Date:   Mon Mar 26 15:36:51 2012 -0400
+
+    All tests are now working.
+
+commit 37db91b964ecde5fbfddccc1e82674b0e2552b37
+Author: Ziemek Wolski <some@example.com>
+Date:   Fri Mar 23 10:37:31 2012 -0400
+
+    Specs up and running.
+
+commit 55beddfd3855e768647119d61b8622a8437d5981
+Author: Ziemek Wolski <some@example.com>
+Date:   Thu Mar 22 16:37:01 2012 -0400
+
+    Up and running.
+
+commit d8e85c8c8e90b4f9a9835414ab293d50d801af04
+Author: Ziemek Wolski <some@example.com>
+Date:   Thu Mar 22 12:24:38 2012 -0400
+
+    Puzzle is on the screen! yeye
+
+commit f81aad85abe5163b5ea4902fd969f92c9caff2dd
+Author: Ziemek Wolski <some@example.com>
+Date:   Thu Mar 22 11:38:05 2012 -0400
+
+    initial app with just image saving working.
